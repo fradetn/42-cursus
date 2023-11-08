@@ -10,3 +10,9 @@
 [submodule "so_long"]
 	path = so_long
 	url = git@github.com:fradetn/so_long.git
+[submodule "so_long_libft"]
+	path = so_long/libft
+	url = git@github.com:fradetn/libft.git
+[submodule "minilibx-linux"]
+	path = so_long/minilibx-linux
+	url = https://github.com/42Paris/minilibx-linux.git
